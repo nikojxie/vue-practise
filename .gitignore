@@ -1,0 +1,9 @@
+.xml
+.iml
+node-modules
+/.idea/.gitignore
+/.idea/jsLibraryMappings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/vue-practise.iml
